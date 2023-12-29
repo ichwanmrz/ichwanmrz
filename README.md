@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ichwan..
-- 👀 I’m interested in web dev..
+- 👋 Hi, i am Ichwan..
+- 👀 I’m interested in web & mofile development..
 - 🌱 I’m currently teaching & learning...
 - 💞️ I’m open to collaborate on some projects...
-- 📫 How to reach me ...just conment here first.
+- 📫 How to reach me ? just comment here first, thank you.
 
 <!---
 ichwanmrz/ichwanmrz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
